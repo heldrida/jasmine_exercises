@@ -1,0 +1,24 @@
+{
+  "name": "jasmine_exercises",
+  "version": "0.0.0",
+  "description": "Unit testing on javascript, using jasmine library and oficial docs",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jasmine": "^0.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:heldrida/jasmine_exercises.git"
+  },
+  "author": "Punkbit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heldrida/jasmine_exercises/issues"
+  },
+  "homepage": "https://github.com/heldrida/jasmine_exercises"
+}
